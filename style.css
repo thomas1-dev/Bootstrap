@@ -1,0 +1,128 @@
+body{ background-color: black;
+border: solid 100px;
+}
+
+ul{
+  background-color: black;
+  border-bottom: 1px solid seashell;
+
+}
+
+li{
+  display: inline-block;
+  font-size:100px;
+  text-decoration: solid;
+float:inline-start;
+   
+  text-align: center;
+  padding: 14px 16px;
+  margin-right: 111px;
+  background-color: black;
+  color: white;
+  
+}
+li:hover{
+  color: aquamarine;
+  visibility: visible;
+  opacity: 0.7;
+}
+
+#location{
+  float: right;
+  text-decoration: underline;
+  
+}
+#logo{
+  margin-left: 10px;
+  margin-right:50px ;
+}
+#second-div{
+  background-image: url('img-mission-background.jpg');
+  margin-top:500px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+align-items: center;
+
+}
+
+section{
+  text-align: center;
+  width: 100%;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  
+}
+#third-div{
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 180px;
+  font-size: 10px;
+  font-weight: bold;
+  height: 200px;
+  
+
+}
+
+.span1{
+  font-size: 50px;
+}
+.div2{
+  display: flex;
+  justify-content: center;
+text-align: center;
+color: white;
+font-size: 50px;
+margin-top: 1000px;
+}
+
+
+
+.LocationBody{
+  background-image: url('img-locations-background.jpg');
+}
+
+.location{
+  color: white;
+  text-align: center;
+font-size: 200px;
+  
+
+}
+
+.LocationDiv{
+  color: white;
+  display: flex;
+  font-size: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.LocationDiv1{padding:200px;
+  border: 30px solid;
+  margin-right: 40px;
+  background-color: black;
+  
+
+}
+p{
+  opacity: 0.8;
+}
+
+footer{
+  text-align: left;
+  font-size: 70px;
+ 
+  color: white;
+
+}
+.LocationDiv2{
+  text-align: center;
+  justify-content: center;
+  color: white;
+  font-size: 50px;
+}
